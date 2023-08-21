@@ -1,0 +1,7 @@
+.page {
+    background-image: url('../../images/background.JPEG');
+    background-repeat: no-repeat;
+    background-position: -650px; 
+    background-size:  1400px;
+    font-family: 'FuturaPTExtraBoldObl', 'Arial', sans-serif;
+}

@@ -1,0 +1,48 @@
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('Inter-Regular.woff') format('woff'),
+        url('Inter-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('Inter-Medium.woff') format('woff'),
+      url('Inter-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("Inter-Black.woff2") format("woff2"),
+       url("Inter-Black.woff") format("woff");
+}
+
+@font-face { 
+  font-family: "FuturaPTExtraBoldObl";
+  src: url("../fonts/FuturaPTExtraBoldObl/FuturaPTExtraBoldObl.eot");
+  src: url("../fonts/FuturaPTExtraBoldObl/FuturaPTExtraBoldObl.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/FuturaPTExtraBoldObl/FuturaPTExtraBoldObl.woff") format("woff"),
+  url("../fonts/FuturaPTExtraBoldObl/FuturaPTExtraBoldObl.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face { 
+  font-family: "FuturaPTBold";
+  src: url("../fonts/FuturaPTBold/FuturaPTBold.eot");
+  src: url("../fonts/FuturaPTBold/FuturaPTBold.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/FuturaPTBold/FuturaPTBold.woff") format("woff"),
+  url("../fonts/FuturaPTBold/FuturaPTBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+

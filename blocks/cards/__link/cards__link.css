@@ -1,0 +1,9 @@
+.cards__link {
+    color: white; 
+    text-decoration: none;
+    box-shadow: none; 
+    border-bottom: 1px solid rgb(122,147,140); 
+    margin-left: 10px;
+    padding-bottom: 50px;
+
+}

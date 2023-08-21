@@ -1,0 +1,14 @@
+.menu {
+    font-family: 'FuturaPTBold', sans-serif;
+    text-decoration: none;
+    background-color: rgb(122,147,140);
+    border-radius: 10px;
+    color: white;
+    font-size: 5vw;
+    width: 43.75vw;
+    margin-left: 27.8vw;
+    height: 8.5vw;
+    text-align: center;
+    line-height: 8.5vw;
+    
+}
